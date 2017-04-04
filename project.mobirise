@@ -69,12 +69,12 @@
           "_anchor": "form1-0",
           "_params": {
             "labelsColor": "#232323",
-            "paddingTop": 3,
+            "paddingTop": "0",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -87,7 +87,7 @@
           "form": {
             "action": "jdambrosio@myagsd.net",
             "alerts": {
-              "success": "Click Here To Go Back To Meils!"
+              "success": "Thanks For Keeping The Meils App Safe!  We May Contact You If We Have Any Questions!"
             },
             "fields": {
               "name": {
